@@ -82,7 +82,3 @@ CourseWork/
   CS320_Module_Five_Journal_Bradley_Hobson.docx
   CS320_Project_One_Guidelines_and_Rubric.md
 ```
-
-## Recovery Note
-
-The course requirements, journals, and Project Two report in this repository were recovered from my prior course work. The original individual Project One `.java` uploads were not available in the archived files, so the Java source and JUnit test files in `ProjectOne` were reconstructed from the documented requirements and my prior testing reflections. They preserve the required behavior and test cases described in those records.
